@@ -1,6 +1,6 @@
 {
-    "name": "today",
-    "short_name": "today",
+    "name": "seeme_app",
+    "short_name": "seeme_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
